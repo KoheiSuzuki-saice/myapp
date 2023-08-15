@@ -6,6 +6,7 @@ get '/' do
 end
 
 get '/test' do
+    //コンフリクトテスト
     "<h2>Hello Worldtest!</h2><p>asdfghjk<p/>"
 end
     
